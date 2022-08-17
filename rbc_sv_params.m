@@ -1,0 +1,10 @@
+ALPH = 0.3;
+BETTA = 0.98;
+GAMA = 2;
+DELT = 0.02;
+RHOA = 0.98;
+RHOSIG = 0.99;
+Ass = 1;
+SIGAss = 0.02;
+STDA = 1;
+STDSIG = 0.0265;
